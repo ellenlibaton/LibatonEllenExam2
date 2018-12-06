@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091183167045",
+    "firebase_url": "https://libatonellenpe2.firebaseio.com",
+    "project_id": "libatonellenpe2",
+    "storage_bucket": "libatonellenpe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091183167045:android:7bb2709c7d90f593",
+        "android_client_info": {
+          "package_name": "com.android.libatonellenpe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091183167045-48kkkmf9mp8v9u0r2ugbebh9e5cbi8je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.libatonellenpe2",
+            "certificate_hash": "77f77561602c27bb33fe35767a7946b579e235de"
+          }
+        },
+        {
+          "client_id": "1091183167045-6701j6rio07nckl1qhpknq16sln9noig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_C07tzZLkVoo8tjEhJd-qBCd3i7w1IJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091183167045-6701j6rio07nckl1qhpknq16sln9noig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
